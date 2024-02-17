@@ -7,3 +7,4 @@
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=3.18.91-16068741---version=1-SMP-PREEMPT-Fri-Jun-28-210246-KST-2019---machine=armv8lLinux-3.18.91-16068741-armv8l-with-libcarmv8l
 4-physical---4-logical-unameresult--system=Linux---node=localhost---release=3.18.91-16068741---version=1-SMP-PREEMPT-Fri-Jun-28-210246-KST-2019---machine=armv8lLinux-3.18.91-16068741-armv8l-with-libcarmv8l
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.193----version=1-SMP-PREEMPT-Fri-Dec-1-215516-CST-2023---machine=aarch64Linux-4.14.193--aarch64-with-libcaarch64
+8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.19.127-g20813a2c8-dirty---version=1-SMP-PREEMPT-Thu-May-4-150142-CST-2023---machine=aarch64Linux-4.19.127-g20813a2c8-dirty-aarch64-with-libcaarch64
