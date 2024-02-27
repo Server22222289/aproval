@@ -11,3 +11,4 @@
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=5.4.233-ab238---version=1-SMP-PREEMPT-PREEMPTRT-Thu-Nov-16-101329-CST-2023---machine=aarch64Linux-5.4.233-ab238-aarch64-with-libcaarch64
 2-physical---4-logical-unameresult--system=Windows---node=WIN-L55OE7TFQTQ---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3---GenuineIntel
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.186-00923-gc26ca608c116-dirty---version=1-SMP-PREEMPT-Mon-Apr-18-002629-CST-2022---machine=aarch64Linux-4.14.186-00923-gc26ca608c116-dirty-aarch64-with-libcaarch64
+1-physical---1-logical-unameresult--system=Windows---node=CLOUD-1A178829M---release=2022Server---version=10.0.20348---machine=AMD64Windows-2022Server-10.0.20348-SP0AMD64Intel64-Family-6-Model-6-Stepping-3---GenuineIntel
