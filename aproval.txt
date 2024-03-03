@@ -1,1 +1,1 @@
-
+2-physical---4-logical-unameresult--system=Windows---node=WIN-1QS5CD8U05L---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3---GenuineIntel
