@@ -1,14 +1,1 @@
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.186-00967-g54a5dbc8653a-dirty---version=1-SMP-PREEMPT-Fri-Dec-17-180935-CST-2021---machine=aarch64Linux-4.14.186-00967-g54a5dbc8653a-dirty-aarch64-with-libcaarch64
-2-physical---4-logical-unameresult--system=Windows---node=WIN-1QS5CD8U05L---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3---GenuineIntel
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.19.191-g8c82d7be1042-dirty---version=1-SMP-PREEMPT-Mon-Dec-11-160210-CST-2023---machine=aarch64Linux-4.19.191-g8c82d7be1042-dirty-aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.4.23----version=1-SMP-PREEMPT-Thu-Apr-25-152722-CST-2019---machine=aarch64Linux-4.4.23--aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.9.190----version=2-SMP-PREEMPT-Wed-Dec-1-172238-CST-2021---machine=aarch64Linux-4.9.190--aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=5.10.117-android12-9-g53267337632a---version=1-SMP-PREEMPT-Wed-Feb-15-124721-UTC-2023---machine=aarch64Linux-5.10.117-android12-9-g53267337632a-aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=3.18.91-16068741---version=1-SMP-PREEMPT-Fri-Jun-28-210246-KST-2019---machine=armv8lLinux-3.18.91-16068741-armv8l-with-libcarmv8l
-4-physical---4-logical-unameresult--system=Linux---node=localhost---release=3.18.91-16068741---version=1-SMP-PREEMPT-Fri-Jun-28-210246-KST-2019---machine=armv8lLinux-3.18.91-16068741-armv8l-with-libcarmv8l
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.193----version=1-SMP-PREEMPT-Fri-Dec-1-215516-CST-2023---machine=aarch64Linux-4.14.193--aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.190-perf-g9365b7d6fb08---version=1-SMP-PREEMPT-Tue-Mar-7-122243-CST-2023---machine=aarch64Linux-4.14.190-perf-g9365b7d6fb08-aarch64-with-libcaarch64
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=5.4.233-ab238---version=1-SMP-PREEMPT-PREEMPTRT-Thu-Nov-16-101329-CST-2023---machine=aarch64Linux-5.4.233-ab238-aarch64-with-libcaarch64
-2-physical---4-logical-unameresult--system=Windows---node=WIN-L55OE7TFQTQ---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3---GenuineIntel
-8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.186-00923-gc26ca608c116-dirty---version=1-SMP-PREEMPT-Mon-Apr-18-002629-CST-2022---machine=aarch64Linux-4.14.186-00923-gc26ca608c116-dirty-aarch64-with-libcaarch64
-1-physical---1-logical-unameresult--system=Windows---node=CLOUD-1A178829M---release=2022Server---version=10.0.20348---machine=AMD64Windows-2022Server-10.0.20348-SP0AMD64Intel64-Family-6-Model-6-Stepping-3---GenuineIntel
+
