@@ -2,3 +2,4 @@
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.9.190----version=2-SMP-PREEMPT-Wed-Dec-1-172238-CST-2021---machine=aarch64Linux-4.9.190--aarch64-with-libcaarch64
 8-physical---8-logical-unameresult--system=Linux---node=localhost---release=4.14.186-00967-g54a5dbc8653a-dirty---version=1-SMP-PREEMPT-Fri-Dec-17-180935-CST-2021---machine=aarch64Linux-4.14.186-00967-g54a5dbc8653a-dirty-aarch64-with-libcaarch64
 4-physical---4-logical-unameresult--system=Linux---node=localhost---release=3.18.91-16068741---version=1-SMP-PREEMPT-Fri-Jun-28-210246-KST-2019---machine=armv8lLinux-3.18.91-16068741-armv8l-with-libcarmv8l
+1-physical---1-logical-unameresult--system=Windows---node=CLOUD-1A178829M---release=2022Server---version=10.0.20348---machine=AMD64Windows-2022Server-10.0.20348-SP0AMD64Intel64-Family-6-Model-6-Stepping-3---GenuineIntel
